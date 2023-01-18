@@ -1,20 +1,20 @@
-# a test sample
+# Example readme
 
   ## Description
-  a test sample to see of this works
+  an example for how to use the readme generator
 
   ## Installation Instructions
-  node index.js
+  instalation intructions go here
 
   ## Usage
-  any way
+  type node index.js into the terminal then answer the questions
 
-  # License
-  undefined
+  ## License
+  MIT
 
   ## Contributing
-  none
+  add the contribution guidelines here
 
   ## Tests
-  test
+  add the testing instructions here as well
 
